@@ -1,0 +1,38 @@
+{
+  "name": "Ria Tekno Blog",
+  "short_name": "Ria Tekno",
+  "start_url": "https://www.riatekno.com/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#0047b3",
+  "description": "Ria Tekno Blog adalah situs informasi membahas seputar aplikasi, internet, media sosial, spesifikasi dan harga handphone serta dunia hiburan terbaru.",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-BPE0xMUz0HE/XaMaxJAoZpI/AAAAAAAABrQ/J607ZKsq4hQuE1sV7SZLKyXt7knHBwWUwCLcBGAsYHQ/s48/Ikon%2BBlog.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-BPE0xMUz0HE/XaMaxJAoZpI/AAAAAAAABrQ/J607ZKsq4hQuE1sV7SZLKyXt7knHBwWUwCLcBGAsYHQ/s72/Ikon%2BBlog.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-BPE0xMUz0HE/XaMaxJAoZpI/AAAAAAAABrQ/J607ZKsq4hQuE1sV7SZLKyXt7knHBwWUwCLcBGAsYHQ/s96/Ikon%2BBlog.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-BPE0xMUz0HE/XaMaxJAoZpI/AAAAAAAABrQ/J607ZKsq4hQuE1sV7SZLKyXt7knHBwWUwCLcBGAsYHQ/s144/Ikon%2BBlog.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-BPE0xMUz0HE/XaMaxJAoZpI/AAAAAAAABrQ/J607ZKsq4hQuE1sV7SZLKyXt7knHBwWUwCLcBGAsYHQ/s168/Ikon%2BBlog.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-BPE0xMUz0HE/XaMaxJAoZpI/AAAAAAAABrQ/J607ZKsq4hQuE1sV7SZLKyXt7knHBwWUwCLcBGAsYHQ/s192/Ikon%2BBlog.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-BPE0xMUz0HE/XaMaxJAoZpI/AAAAAAAABrQ/J607ZKsq4hQuE1sV7SZLKyXt7knHBwWUwCLcBGAsYHQ/s512/Ikon%2BBlog.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
